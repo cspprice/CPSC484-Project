@@ -9,6 +9,7 @@ To install using Unity Hub
   - Under Installs, Install Unity version 2020.1.3f1
   - Under Projects, Click add and select the folder containing the projects
   - Open the project (this may take some time)
+  - After opening the project it may take some time to load the scene all the way
   
 The High Dynamic Range Image (HDRI) used for the skybox was taken from www.hdrihaven.com and is licensed as CC0
 
