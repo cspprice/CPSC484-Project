@@ -1,7 +1,7 @@
 # CPSC484-Project
 
 I had originally wanted to use the QT Ray Tracer for my project, however I ran into many difficulties getting it to work. 
-Because of these problems I decided to switch to using Unity. I used Unity version 2020.1.3f1 using Unity's High Definitiion 
+Because of these problems I decided to switch to using Unity. I used Unity version 2020.1.3f1 using Unity's High Definition 
 Render Pipeline (HDRP) and a Windows 10 machine.
 
 To install using Unity Hub
